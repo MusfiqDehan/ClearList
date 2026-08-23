@@ -1,0 +1,11 @@
+.env*
+**/.env*
+**/node_modules
+**/.next
+backend/vendor
+backend/storage
+backend/bootstrap/cache
+frontend/playwright-report
+frontend/test-results
+.git
+.gitignore
