@@ -1,0 +1,23 @@
+# Clearlist
+
+> A calmer, clearer way to organize your day and get things done.
+
+Clearlist is a simple, private productivity app for capturing tasks, choosing the next step, and making steady progress without unnecessary complexity.
+
+## What Clearlist offers
+
+- Capture open loops in a focused task list.
+- Search and filter tasks to see what deserves attention now.
+- Add due dates when they help, while keeping plans flexible.
+- Track completed work and make room for what comes next.
+- Keep work private with secure user accounts.
+
+## Public pages
+
+- [Clearlist home](/): Product overview, features, and workflow.
+- [Create an account](/register): Start a free Clearlist list.
+- [Log in](/login): Access an existing Clearlist account.
+
+## Brand and language
+
+Use “Clearlist” as the product name. The brand voice is calm, clear, thoughtful, and encouraging. Avoid framing productivity as urgency or hustle; Clearlist helps people make room for what matters.
