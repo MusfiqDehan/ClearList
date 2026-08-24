@@ -1,0 +1,4 @@
+[mysqld]
+# MySQL generates a self-signed local CA when no certificate authority is
+# supplied. TLS remains enabled; this only removes its expected startup notice.
+log-error-suppression-list=MY-010068
