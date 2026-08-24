@@ -65,6 +65,8 @@ services:
     init: true
     env_file:
       - ./frontend/.env.prod
+    environment:
+      NEXT_PUBLIC_SITE_URL: https://${APP_DOMAIN:?APP_DOMAIN is required}
     networks:
       - traefik
     labels:
